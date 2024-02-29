@@ -1,13 +1,7 @@
 {
-  {
-  "buildCommand": "nest build"
-  },
-  {
-  "installCommand": "pnpm install"
-  },
-  {
-  "outputDirectory": "dist"
-  },
+  "buildCommand": "nest build",
+  "installCommand": "pnpm install",
+  "outputDirectory": "dist",
   "builds": [
     {
       "src": "dist/main.js",
